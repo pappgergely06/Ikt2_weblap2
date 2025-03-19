@@ -1,0 +1,13 @@
+p{
+    text-align: justify;
+}
+img{
+    width: 100%;
+
+}
+
+.kep{
+    display: grid;
+    place-items: center;
+    height: 42vh;
+}
