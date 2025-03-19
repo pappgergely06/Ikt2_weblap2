@@ -5,9 +5,3 @@ img{
     width: 100%;
 
 }
-
-.kep{
-    display: grid;
-    place-items: center;
-    height: 42vh;
-}
