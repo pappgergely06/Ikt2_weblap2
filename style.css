@@ -1,5 +1,10 @@
+body{
+    background-color: #535353;
+}
 .container{
     text-align: justify;
+    color: white;
+    background-color: #222121;
 }
 img{
     width: 100%;
@@ -12,4 +17,19 @@ footer{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+}
+.card{
+    width: 25rem;
+    margin-bottom: 3rem;
+    color: white;
+    background-color: black;
+}
+
+#napjaink{
+    color: white;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+nav{
+    background-color: grey;
 }
