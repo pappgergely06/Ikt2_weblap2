@@ -8,3 +8,8 @@ img{
 footer{
     text-align: center;
 }
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
